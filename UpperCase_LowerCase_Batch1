@@ -1,0 +1,7 @@
+Upper Case:
+str="computer student";
+print("str.capitalize():",str.upper())
+
+Lower Case:
+str="COMPUTER STUDENT";
+print(str.lower())
