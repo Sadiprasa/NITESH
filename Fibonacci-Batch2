@@ -1,5 +1,5 @@
-a=int(input("Enter the first number of the series "))
-b=int(input("Enter the second number of the series "))
+a=int(input("Enter the 1st of the series: "))
+b=int(input("Enter the 2nd number of the series: "))
 n=int(input("Enter the number of terms needed "))
 print(a,b,end=" ")
 while(n-2):
